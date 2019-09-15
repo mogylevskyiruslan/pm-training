@@ -24,6 +24,7 @@
 A program written in a compiled language must be converted into a different format before it is run. The source code must be transformed into machine readable instructions prior to execution. An interpreted language, on the contrary, does not compile the source code into machine language prior to running the program. It merely interprets the code on the fly. Interpreted languages require a piece of software called an interpreter, which takes the source code and executes one instruction at a time.
 
 > What are the different types of web hosting exist?
+
 1. Shared Hosting 
 2. Reseller Web Hosting
 3. Cloud-Based Web Hosting

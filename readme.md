@@ -9,7 +9,7 @@
 6. Answer questions in the document `questions.md`.
 7. Commit and push changes to GIT repository.
 8. Open https://github.com/abespalko/pm-training/branches and make sure you can find your branch in the repository.
-9. Create pull request, where `source` branch is your branch named `feature/{your_firstname_lastname}` and destination branch is `develop`.
+9. Create pull request, where `source` branch is your branch named `feature/{your_firstname_lastname}` and destination branch is `master`.
 
 *As an alternative way, you can send your email address or nickname to Alexander Bespalko (in slack), so that you will get push access to the repository.*
 
